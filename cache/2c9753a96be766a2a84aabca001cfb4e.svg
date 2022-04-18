@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="399px" preserveAspectRatio="none" style="width:257px;height:399px;background:#FFFFFF;" version="1.1" viewBox="0 0 257 399" width="257px" zoomAndPan="magnify"><defs><filter height="300%" id="f1e9an1hin2nt5" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><g id="elem_London"><rect fill="#FEFECE" filter="url(#f1e9an1hin2nt5)" height="36.7999" style="stroke:#A80036;stroke-width:1.0;" width="60" x="183" y="129.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="190" y="145.4999">London</text><line style="stroke:#A80036;stroke-width:1.0;" x1="184" x2="242" y1="150.2999" y2="150.2999"/></g><g id="elem_Washington"><rect fill="#FEFECE" filter="url(#f1e9an1hin2nt5)" height="36.7999" style="stroke:#A80036;stroke-width:1.0;" width="88" x="7" y="252"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="14" y="267.9999">Washington</text><line style="stroke:#A80036;stroke-width:1.0;" x1="8" x2="94" y1="272.7999" y2="272.7999"/></g><g id="elem_Berlin"><rect fill="#FEFECE" filter="url(#f1e9an1hin2nt5)" height="36.7999" style="stroke:#A80036;stroke-width:1.0;" width="49" x="123.5" y="349"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="130.5" y="364.9999">Berlin</text><line style="stroke:#A80036;stroke-width:1.0;" x1="124.5" x2="171.5" y1="369.7999" y2="369.7999"/></g><g id="elem_NewYork"><rect fill="#FEFECE" filter="url(#f1e9an1hin2nt5)" height="36.7999" style="stroke:#A80036;stroke-width:1.0;" width="69" x="64.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="71.5" y="22.9999">NewYork</text><line style="stroke:#A80036;stroke-width:1.0;" x1="65.5" x2="132.5" y1="27.7999" y2="27.7999"/></g><g id="elem_CapitalCity"><rect fill="#FEFECE" filter="url(#f1e9an1hin2nt5)" height="83.1997" style="stroke:#A80036;stroke-width:1.0;" width="82" x="58" y="108"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="65" y="123.9999">CapitalCity</text><line style="stroke:#A80036;stroke-width:1.0;" x1="58" x2="140" y1="128.7999" y2="128.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="19" x="89.5" y="144.7999">UK</text><line style="stroke:#A80036;stroke-width:1.0;" x1="58" x2="140" y1="149.5999" y2="149.5999"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="28" x="85" y="165.5998">USA</text><line style="stroke:#A80036;stroke-width:1.0;" x1="58" x2="140" y1="170.3998" y2="170.3998"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="70.5" y="186.3997">Germany</text></g><!--MD5=[08c2154df57d6956de6a57e0600d8c0c]
+link CapitalCity to London--><g id="link_CapitalCity_London"><path d="M141,138 C153.09,144.45 166.23,149.89 177.87,153.23 " fill="none" id="CapitalCity-to-London" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="182.77,154.53,175.1023,148.3489,177.9384,153.2435,173.0438,156.0796,182.77,154.53" style="stroke:#A80036;stroke-width:1.0;"/></g><!--MD5=[ce1df1cec5f1bd19f4efb3c41b6a206d]
+link CapitalCity to Washington--><g id="link_CapitalCity_Washington"><path d="M57,158 C21.85,158 33.48,213.92 43.26,246.56 " fill="none" id="CapitalCity-to-Washington" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="44.8,251.59,45.9784,241.8119,43.3306,246.8108,38.3317,244.163,44.8,251.59" style="stroke:#A80036;stroke-width:1.0;"/></g><!--MD5=[ca073b26b61f93d6677a90d4638426cb]
+link CapitalCity to Berlin--><g id="link_CapitalCity_Berlin"><path d="M141,178 C173.78,178 159.57,293.29 151.82,343.54 " fill="none" id="CapitalCity-to-Berlin" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="151,348.77,156.3436,340.4968,151.7732,343.8301,148.4399,339.2597,151,348.77" style="stroke:#A80036;stroke-width:1.0;"/></g><!--MD5=[bd294936e9d7f09591172f202d803ee0]
+link NewYork to CapitalCity--><g id="link_NewYork_CapitalCity"><path codeLine="14" d="M112.19,44.23 C136.89,78.73 184.32,151.98 146.09,157.65 " fill="none" id="NewYork-to-CapitalCity" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="141,158,150.2532,161.3731,145.9882,157.657,149.7044,153.392,141,158" style="stroke:#A80036;stroke-width:1.0;"/></g><!--MD5=[58ca0086f23d2a51f94da36d0a905935]
+@startuml
+skin rose
+
+object London
+object Washington
+object Berlin
+object NewYork
+
+map CapitalCity {
+ UK *-> London
+ USA *- -> Washington
+ Germany *- - -> Berlin
+}
+
+NewYork - -> CapitalCity::USA
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 16:10:57 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

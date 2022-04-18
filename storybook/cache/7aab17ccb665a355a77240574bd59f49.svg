@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="301px" preserveAspectRatio="none" style="width:472px;height:301px;background:#FFFFFF;" version="1.1" viewBox="0 0 472 301" width="472px" zoomAndPan="magnify"><defs><filter height="300%" id="f1pvcfe2mve8jd" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[97ab183161fd5d1db7fba7485cf76add]
+entity Admin--><g id="elem_Admin"><ellipse cx="263.5" cy="14" fill="#FEFECE" filter="url(#f1pvcfe2mve8jd)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M263.5,22 L263.5,49 M250.5,30 L276.5,30 M263.5,49 L250.5,64 M263.5,49 L276.5,64 " fill="none" filter="url(#f1pvcfe2mve8jd)" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="226.5" y="84.9999">Main Admin</text></g><g id="elem_Use"><ellipse cx="136.3885" cy="269.4777" fill="#FEFECE" filter="url(#f1pvcfe2mve8jd)" rx="80.3885" ry="18.4777" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="77.3885" y="273.0777">Use the application</text></g><!--MD5=[fee662a292a0353a69bd162820bae93b]
+entity User--><g id="elem_User"><ellipse cx="20.5" cy="14" fill="#FEFECE" filter="url(#f1pvcfe2mve8jd)" rx="8" ry="8" style="stroke:#A80036;stroke-width:2.0;"/><path d="M20.5,22 L20.5,49 M7.5,30 L33.5,30 M20.5,49 L7.5,64 M20.5,49 L33.5,64 " fill="none" filter="url(#f1pvcfe2mve8jd)" style="stroke:#A80036;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="6" y="84.9999">User</text></g><g id="elem_Start"><ellipse cx="114.6985" cy="45.8793" fill="#FEFECE" filter="url(#f1pvcfe2mve8jd)" rx="32.6985" ry="14.8793" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="99.6985" y="49.4793">Start</text></g><g id="elem_GMN2204565"><path d="M335.5,33 L335.5,42 L300.69,46 L335.5,50 L335.5,58.6 A0,0 0 0 0 335.5,58.6 L463.5,58.6 A0,0 0 0 0 463.5,58.6 L463.5,43 L453.5,33 L335.5,33 A0,0 0 0 0 335.5,33 " fill="#FBFB77" filter="url(#f1pvcfe2mve8jd)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M453.5,33 L453.5,43 L463.5,43 L453.5,33 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="107" x="341.5" y="51">This is an example.</text></g><g id="elem_GMN2204568"><path d="M252.5,249 L252.5,265.5 L217.16,269.5 L252.5,273.5 L252.5,290.2 A0,0 0 0 0 252.5,290.2 L376.5,290.2 A0,0 0 0 0 376.5,290.2 L376.5,259 L366.5,249 L252.5,249 A0,0 0 0 0 252.5,249 " fill="#FBFB77" filter="url(#f1pvcfe2mve8jd)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M366.5,249 L366.5,259 L376.5,259 L366.5,249 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="87" x="258.5" y="267">A note can also</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="103" x="258.5" y="282.6">be on several lines</text></g><g id="elem_N2"><path d="M62.5,148 L62.5,189.2 L210.5,189.2 L210.5,158 L200.5,148 L62.5,148 " fill="#FBFB77" filter="url(#f1pvcfe2mve8jd)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M200.5,148 L200.5,158 L210.5,158 L200.5,148 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="127" x="68.5" y="166">This note is connected</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="101" x="68.5" y="181.6">to several objects.</text></g><!--MD5=[f4b2be5085d6f52f3a0e36c62efcf3ad]
+link User to Start--><g id="link_User_Start"><path d="M35.55,46 C49.29,46 63.02,46 76.75,46 " fill="none" id="User-to-Start" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="81.81,46,72.81,42,76.81,46,72.81,50,81.81,46" style="stroke:#A80036;stroke-width:1.0;"/></g><!--MD5=[9b1e83a301d632e8d5a1d64f176fc1f5]
+link User to Use--><g id="link_User_Use"><path d="M20.59,88.29 C22.3,118.02 28.1,158.15 45.5,189 C59.55,213.91 84.43,234.83 104.63,248.95 " fill="none" id="User-to-Use" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="108.87,251.86,103.7062,243.4734,104.7452,249.034,99.1846,250.0731,108.87,251.86" style="stroke:#A80036;stroke-width:1.0;"/></g><!--MD5=[eedd4bf29063d6184eb2b121c1f53f26]
+link Admin to Use--><g id="link_Admin_Use"><path d="M260.07,88.11 C256.05,117.93 247.34,158.26 228.5,189 C213.36,213.7 188.01,234.76 167.75,248.99 " fill="none" id="Admin-to-Use" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="163.51,251.92,173.1882,250.0946,167.6235,249.0777,168.6405,243.513,163.51,251.92" style="stroke:#A80036;stroke-width:1.0;"/></g><!--MD5=[18a852dfe38659cca840945dc1aef57a]
+link Start to N2--><g id="link_Start_N2"><path d="M117.11,61.3 C121.03,82.74 128.43,123.31 132.87,147.63 " fill="none" id="Start-N2" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/></g><!--MD5=[582b4f0da0cf139d0f490575cc867c3a]
+link N2 to Use--><g id="link_N2_Use"><path d="M136.5,189.06 C136.5,207.09 136.5,233.61 136.5,250.97 " fill="none" id="N2-Use" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/></g><!--MD5=[2dee2b0b44ddf4f35c084ad1114404d5]
+@startuml
+skin rose
+
+:Main Admin: as Admin
+(Use the application) as (Use)
+
+User -> (Start)
+User - -> (Use)
+
+Admin - - -> (Use)
+
+note right of Admin : This is an example.
+
+note right of (Use)
+  A note can also
+  be on several lines
+end note
+
+note "This note is connected\nto several objects." as N2
+(Start) .. N2
+N2 .. (Use)
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 16:10:57 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
